@@ -1246,6 +1246,7 @@ ul.slides li {
 
 
 .card-img-top {
+	border: 1px solid #20232323;
 	border-radius: 8px;
 }
 
