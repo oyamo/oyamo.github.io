@@ -1243,3 +1243,15 @@ ul.slides li {
 	    padding-bottom: 40px;
 	}
 }
+
+
+.card-img-top {
+	border-radius: 8px;
+}
+
+.card {
+	border: none;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	padding: 8px;
+	border-radius: 8px;
+}
