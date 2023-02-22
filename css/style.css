@@ -1255,4 +1255,5 @@ ul.slides li {
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 	padding: 8px;
 	border-radius: 8px;
+	margin-bottom: 8px;
 }
